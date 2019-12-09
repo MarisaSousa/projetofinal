@@ -8,7 +8,7 @@ echo "
       <div class='container'>
 
         <header class='section-header'>
-          <h3 class='section-title'>Our Portfolio</h3>
+          <h3 class='section-title'>Fotos</h3>
         </header>
 
         <div class='row'>

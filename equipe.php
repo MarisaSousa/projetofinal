@@ -7,7 +7,7 @@ echo "
     <section id='team'>
       <div class='container'>
         <div class='section-header wow fadeInUp'>
-          <h3>Team</h3>
+          <h3>Equipe</h3>
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
         </div>
 
@@ -15,7 +15,7 @@ echo "
 
           <div class='col-lg-3 col-md-6 wow fadeInUp'>
             <div class='member'>
-              <img src='img/team-1.jpg' class='img-fluid' alt=''>
+              <img src='https://blog-cdn.eduk.com.br/wp-content/uploads/sites/4/2018/02/14163906/bolos-decorados-6.jpeg' class='img-fluid' alt=''>
               <div class='member-info'>
                 <div class='member-info-content'>
                   <h4>Walter White</h4>

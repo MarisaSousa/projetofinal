@@ -13,11 +13,11 @@ echo "
 
       <nav id='nav-menu-container'>
         <ul class='nav-menu'>
-          <li class='menu-active'><a href='#intro'>Home</a></li>
-          <li><a href='#about'>About Us</a></li>
-          <li><a href='#services'>Services</a></li>
-          <li><a href='#portfolio'>Portfolio</a></li>
-          <li><a href='#team'>Team</a></li>
+          <li class='menu-active'><a href='#intro'>Casa</a></li>
+          <li><a href='#about'>Sobre nós</a></li>
+          <li><a href='#services'>Serviços</a></li>
+          <li><a href='#portfolio'>Fotos</a></li>
+          <li><a href='#team'>Equipe</a></li>
           <li class='menu-has-children'><a href=''>Drop Down</a>
             <ul>
               <li><a href='#'>Drop Down 1</a></li>
@@ -26,7 +26,7 @@ echo "
               <li><a href='#'>Drop Down 5</a></li>
             </ul>
           </li>
-          <li><a href='#contact'>Contact</a></li>
+          <li><a href='#contact'>Contatos</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>

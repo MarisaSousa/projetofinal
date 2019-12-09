@@ -9,7 +9,7 @@ echo "
       <div class='container'>
 
         <div class='section-header'>
-          <h3>Contact Us</h3>
+          <h3>Contatos</h3>
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
         </div>
 
