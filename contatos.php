@@ -10,7 +10,7 @@ echo "
 
         <div class='section-header'>
           <h3>Contatos</h3>
-          <p>Mais informações sobre nós,entre em contato conosco:</p>
+          <p>Mais informações sobre nós, entre em contato conosco:</p>
         </div>
 
         <div class='row contact-info'>
@@ -19,7 +19,7 @@ echo "
             <div class='contact-address'>
               <i class='ion-ios-location-outline'></i>
               <h3>Endereço</h3>
-              <address>Sítio Escuro,Ce371-Acopiara Ceará</address>
+              <address>Sítio Escuro, Ce-371, Acopiara Ceará</address>
             </div>
           </div>
 
