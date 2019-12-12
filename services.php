@@ -18,7 +18,10 @@ echo "
           <div class='col-lg-4 col-md-6 box wow bounceInUp' data-wow-duration='1.4s'>
             <div class='icon'><i class='ion-ios-analytics-outline'></i></div>
             <h4 class='title'><a href=''>Panificação</a></h4>
-            <p class='description'>Pão carioca, pão bola, pão doce com bertura de coco, creme e creme com cereja.</p>
+            <p class='description'>Pão carioca, pão bola, pão doce com cobertura de coco, creme e creme com cereja.</p>
+
+              
+
           </div>
           <div class='col-lg-4 col-md-6 box wow bounceInUp' data-wow-duration='1.4s'>
             <div class='icon'><i class='ion-ios-bookmarks-outline'></i></div>
