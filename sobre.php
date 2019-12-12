@@ -8,7 +8,10 @@ echo "
 
         <header class='section-header'>
           <h3>Sobre nós</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p> Estamos á 4 anos no mercado, e o nosso maior prazer é ver nossos clientes
+          felizes.Trabalhamos com a fabricação de pães, bolos, massas e junto com a nossa
+          panificadora temos uma lanchonete e uma pequena percearia.
+          </p>
         </header>
 
         <div class='row about-cols'>
@@ -21,8 +24,7 @@ echo "
               </div>
               <h2 class='title'><a href='#'>Nossa Missão</a></h2>
               <p>
-                
-              </p>
+              .</p>
             </div>
           </div>
 
