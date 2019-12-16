@@ -8,8 +8,8 @@ echo "
 
         <header class='section-header'>
           <h3>Sobre nós</h3>
-          <p> Estamos á 4 anos no mercado, e o nosso maior prazer é ver nossos clientes
-          felizes.Trabalhamos com a fabricação de pães, bolos, massas e junto com a nossa
+          <p> Estamos á 3 anos no mercado, e o nosso maior prazer é ver nossos clientes
+          felizes.Trabalhamos com a fabricação de pães, bolos e junto com a nossa
           panificadora temos uma lanchonete e uma pequena mercearia.
           </p>
         </header>
@@ -23,7 +23,7 @@ echo "
                 <div class='icon'><i class='ion-ios-speedometer-outline'></i></div>
               </div>
               <h2 class='title'><a href='#'>Nossa Missão</a></h2>
-              <p>Nossa missão é levar um alimento de qualidade e pronto para ser consumido para a mesa do consumidor
+              <p>Nossa missão é levar um alimento de qualidade e pronto para ser consumido para a mesa dos nossos clientes.
               .</p>
             </div>
           </div>
