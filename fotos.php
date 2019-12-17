@@ -27,7 +27,7 @@ echo "
           <div class='col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp'>
             <div class='portfolio-wrap'>
               <figure>
-                <img src='img/portfolio/app1.jpg' class='img-fluid' alt=''>
+                <img src='img/IMG-20191216-WA0141.jpg' class='img-fluid' alt=''>
                 <a href='img/portfolio/app1.jpg' data-lightbox='portfolio' data-title='App 1' class='link-preview' title='Preview'><i class='ion ion-eye'></i></a>
                 <a href='#' class='link-details' title='More Details'><i class='ion ion-android-open'></i></a>
               </figure>
