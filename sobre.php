@@ -19,7 +19,7 @@ echo "
           <div class='col-md-4 wow fadeInUp'>
             <div class='about-col'>
               <div class='img'>
-                <img src='img/about-mission.jpg' alt='' class='img-fluid'>
+                <img src='https://s2.glbimg.com/IzE2XK6C9pgzSzKkP4jQKFL1hWM=/700x300/i.glbimg.com/og/ig/infoglobo1/f/original/2019/01/14/77241538_rs_-_rio_de_janeiro_rj_-_08-06-2018_-_especial_padeiros_casa_camolese_jeff._foto_barb.jpg' alt='' class='img-fluid'>
                 <div class='icon'><i class='ion-ios-speedometer-outline'></i></div>
               </div>
               <h2 class='title'><a href='#'>Nossa Missão</a></h2>
@@ -31,7 +31,7 @@ echo "
           <div class='col-md-4 wow fadeInUp' data-wow-delay='0.1s'>
             <div class='about-col'>
               <div class='img'>
-                <img src='img/about-plan.jpg' alt='' class='img-fluid'>
+                <img src='https://www.novohamburgo.rs.gov.br/sites/pmnh/files/styles/800x800/public/imagem_noticia/2019-06/Site_39.png?itok=UCHQvcnr' alt='' class='img-fluid'>
                 <div class='icon'><i class='ion-ios-list-outline'></i></div>
               </div>
               <h2 class='title'><a href='#'>Nosso Plano</a></h2>
@@ -44,7 +44,7 @@ echo "
           <div class='col-md-4 wow fadeInUp' data-wow-delay='0.2s'>
             <div class='about-col'>
               <div class='img'>
-                <img src='img/about-vision.jpg' alt='' class='img-fluid'>
+                <img src='https://image.freepik.com/fotos-gratis/padeiro-masculino-amassar-a-massa-na-bancada-da-cozinha_23-2147883566.jpg'' class='img-fluid'>
                 <div class='icon'><i class='ion-ios-eye-outline'></i></div>
               </div>
               <h2 class='title'><a href='#'>Nossa Visão</a></h2>

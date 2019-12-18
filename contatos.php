@@ -27,16 +27,11 @@ echo "
             <div class='contact-phone'>
               <i class='ion-ios-telephone-outline'></i>
               <h3>Numero de Telefone</h3>
-              <p><a href='tel:+155895548855'>+1 5589 55488 55</a></p>
+              <p><a href='tel:+155895548855'>+55 88 99617-9643</a></p>
             </div>
           </div>
 
-          <div class='col-md-4'>
-            <div class='contact-email'>
-              <i class='ion-ios-email-outline'></i>
-              <h3>Email</h3>
-              <p><a href='mailto:info@example.com'>info@example.com</a></p>
-            </div>
+         
           </div>
 
         </div>
