@@ -14,10 +14,10 @@ echo "
         <div class='row'>
           <div class='col-lg-12'>
             <ul id='portfolio-flters'>
-              <li data-filter='*' class='filter-active'>All</li>
-              <li data-filter='.filter-app'>App</li>
-              <li data-filter='.filter-card'>Card</li>
-              <li data-filter='.filter-web'>Web</li>
+              <li data-filter='*' class='filter-active'>Todos</li>
+              <li data-filter='.filter-app'>Panificação</li>
+              <li data-filter='.filter-card'>Bolos</li>
+              <li data-filter='.filter-web'>Lanchonete</li>
             </ul>
           </div>
         </div>
@@ -63,7 +63,7 @@ echo "
               </figure>
 
               <div class='portfolio-info'>
-                <h4><a href='#'>Pães</a></h4>
+                <h4><a href='#'>Pães doce</a></h4>
                 <p>App</p>
               </div>
             </div>
@@ -80,7 +80,7 @@ echo "
               </figure>
 
               <div class='portfolio-info'>
-                <h4><a href='#'>Carrioquinha</a></h4>
+                <h4><a href='#'>Carioquinha</a></h4>
                 <p>Web</p>
               </div>
             </div>

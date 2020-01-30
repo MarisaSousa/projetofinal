@@ -36,7 +36,7 @@ echo "
               </div>
               <h2 class='title'><a href='#'>Nosso Plano</a></h2>
               <p>
-                
+                Sed ut perspiciatis unde omnis iste natus error sit voluptatem  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
               </p>
             </div>
           </div>
@@ -49,7 +49,7 @@ echo "
               </div>
               <h2 class='title'><a href='#'>Nossa Visão</a></h2>
               <p>
-                Atende todos os pedidos todos os gostos que satisfação nossos clientes.
+                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
               </p>
             </div>
           </div>

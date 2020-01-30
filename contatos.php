@@ -27,7 +27,7 @@ echo "
             <div class='contact-phone'>
               <i class='ion-ios-telephone-outline'></i>
               <h3>Numero de Telefone</h3>
-              <p><a href='tel:+155895548855'>+55 88 99617-9643</a></p>
+              <p><a href='tel:+155895548855'>+55 88 99265-2555</a></p>
             </div>
           </div>
 

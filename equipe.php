@@ -8,7 +8,7 @@ echo "
       <div class='container'>
         <div class='section-header wow fadeInUp'>
           <h3>Equipe</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>Nossa panificadora é composta por funcionários competentes que querem fazer os melhores produtos para você e sua família. Produtos de qualidade para saciar sua fome, na hora que precisar.</p>
         </div>
 
         <div class='row'>
