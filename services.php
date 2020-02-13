@@ -9,8 +9,8 @@ echo "
 
         <header class='section-header wow fadeInUp'>
           <h3>Serviços</h3>
-          <p>Trabalhamos na produção de pães doces e salgados, pão bola, salgados, bolos de milho, mole, fofo, mesclado, chocolate, cenoura e etc.
-         .</p>
+          <p>Trabalhamos na produção de pães doces e salgados, pão bola,
+           bolos de milho, mole, fofo, mesclado, chocolate, cenoura e etc.</p>
         </header>
 
         <div class='row'>

@@ -10,7 +10,8 @@ echo "
           <h3>Sobre nós</h3>
           <p> Estamos á 3 anos no mercado, e o nosso maior prazer é ver nossos clientes
           felizes.Trabalhamos com a fabricação de pães, bolos e junto com a nossa
-          panificadora temos uma lanchonete e uma pequena mercearia.
+          panificadora temos uma lanchonete e uma pequena mercearia. Estamos localizados
+          no sítio Escuro, Acopiara-Ce. 
           </p>
         </header>
 
@@ -35,9 +36,8 @@ echo "
                 <div class='icon'><i class='ion-ios-list-outline'></i></div>
               </div>
               <h2 class='title'><a href='#'>Nosso Plano</a></h2>
-              <p>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-              </p>
+              <p>Nosso maior desejo é levar alimentos de qualidades para
+              sua mesa, com preço assecível para todos.</p>
             </div>
           </div>
 
@@ -48,9 +48,8 @@ echo "
                 <div class='icon'><i class='ion-ios-eye-outline'></i></div>
               </div>
               <h2 class='title'><a href='#'>Nossa Visão</a></h2>
-              <p>
-                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
-              </p>
+              <p>Nosssa visão de mundo é querer cada dia mais a satisfação
+              dos nossos clientes, sempre com o desejo de crescer mais.</p>
             </div>
           </div>
 
